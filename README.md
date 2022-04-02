@@ -7,3 +7,8 @@
   <br>My solutions to LeetCode problems
   <br><br>
 </p>
+
+
+|   ﻿#  |                                                                     Question                                                                     |                                                                             Solution                                                                            | Difficulty |
+|:----:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+|   1  | [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)                                                                                                 | [Solution](https://github.com/unaisvayani/leetcode/blob/main/Solutions/Linked%20List%20Cycle.md)                                                                 |    Easy    |

@@ -11,8 +11,8 @@ public class Solution {
 
 ### Time/Space Complexity
 
-- Runtime: 116 ms (beats 66.09% of submissions)
-- Memory: 37.6 MB (beats 50.43% of submissions)
+- Runtime: 116 ms (beats 66.09% of C# online submissions)
+- Memory: 37.6 MB (beats 50.43% of C# online submissions)
 
 ### Links
 

@@ -62,9 +62,9 @@ public class Solution {
 - Runtime: 104 ms (beats 98.65% of C# online submissions)
 - Memory: 51.9 MB (beats 7.73% of C# online submissions)
 
-### Explaination
+### Explanation
 
-- [Check my post on discussion forum] (https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/2020002/Runtime-faster-than-98.65-of-C-online-submissions)
+- [Check my post on discussion forum](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/2020002/Runtime-faster-than-98.65-of-C-online-submissions)
 
 ### Links
 
